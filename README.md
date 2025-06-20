@@ -22,6 +22,7 @@ Here are the important files included in this repository:
 | `train.py` | Script used to train the multimodal classifier |
 | `process.py` | Script used to process and prepare the dataset |
 | `all_tickets_processed_improved_v3.csv` | Sample dataset used for training |
+|`dataset`|Used to create the actual dataset for audio and images|
 
 > **Note**: `requirements.txt` is not included. You can install the needed packages manually (see steps below).
 
